@@ -1,0 +1,1 @@
+Example of json dictionary transformation into a relational database using SQLAlchemy. The data is taken from http://jsonplaceholder.typicode.com/.
